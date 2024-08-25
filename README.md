@@ -1,1 +1,0 @@
-# talk-observability-building-it-yourself
